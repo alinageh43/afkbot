@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "tiredofliving32", 
     "password": "",
     "type": "offline"
   },
@@ -42,7 +42,7 @@
     },
 
     "chat-log": true,
-    "auto-reconnect": false,
-    "auto-recconect-delay": 2
+    "auto-reconnect": true,
+    "auto-recconect-delay": 1000
   }
 }
