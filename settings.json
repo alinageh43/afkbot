@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "hoe3-Eljh.aternos.me:", 
+    "ip": "hoe3-Eljh.aternos.me", 
     "port": 30593,   
     "version": "1.12.1"   
   },
